@@ -10,5 +10,5 @@ setInterval(nextImage, nextImageDelay);
 function nextImage() {
     slideshowImages[currentImageCounter].style.display = "none";
     currentImageCounter = (currentImageCounter + 1) % slideshowImages.length;
-    slideshowImages[currentImageCounter].style.display = "block"}
+    slideshowImages[currentImageCounter].style.display = "block";
 }
