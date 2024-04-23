@@ -34,6 +34,7 @@ nav {
 
 .navigation-bar-items {
     display: flex;
+    text-align: center;
     list-style-type: none;
     padding: 0;
     align-items: center;
@@ -43,6 +44,10 @@ nav {
 
 .navigation-bar {
     margin: 8px;
+}
+
+.navigation-bar p {
+    text-decoration: underline;
 }
 
 .portrait {
@@ -77,6 +82,9 @@ nav {
     /* transition: opacity 1s ease-in-out; */
 }
 
+#projects h3 {
+    text-decoration: underline;
+}
 
 footer {
     margin-top: auto;
