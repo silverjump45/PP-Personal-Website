@@ -8,8 +8,8 @@ html,
 body {
     height: 100%;
     color: black;
-    background-color: rgb(252, 232, 207);
-}
+    background-color: #FCE8CF;
+    background-image: url("images/clean-textile.png");
 
 h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
